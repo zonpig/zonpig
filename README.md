@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan</h1>
-<h3 align="center">Penultimate Computer Science & Business Double Degree Student at NTU in Singapore!</h3>
+<h3 align="center">Final Year Computer Science & Business Double Degree Student at NTU in Singapore!</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-lim-b9a95a1bb/)
@@ -7,10 +7,12 @@
 
 </div>
 
+🔭 I’m currently working on FYP
+
+
 <h2>⭐️ Notable Projects:</h1> 
 
 - [yongjicode/jobtechies](https://github.com/yongjicode/jobtechies): NTU TechFest 2023 2nd Runner Up
-
 - [leileijng/CodeSprint_2022](https://github.com/leileijng/CodeSprint_2022): PSA CodeSprint 2022 1st Runner Up
 
 
