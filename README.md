@@ -7,7 +7,7 @@
 
 </div>
 
-🔭 I’m currently working on FYP
+🔭 Although submission of FYP is over, I’m currently working on FYP
 
 
 <h2>⭐️ Notable Projects:</h1> 
