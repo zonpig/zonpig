@@ -9,20 +9,22 @@
 
 🔭 Although submission of FYP is over, I’m currently working on FYP
 
-
-<h2>⭐️ Notable Projects:</h1> 
+## ⭐️ Notable Projects
 
 - [yongjicode/jobtechies](https://github.com/yongjicode/jobtechies): NTU TechFest 2023 2nd Runner Up
 - [leileijng/CodeSprint_2022](https://github.com/leileijng/CodeSprint_2022): PSA CodeSprint 2022 1st Runner Up
 
+## Things I want to make in near future
+
+- [ ] Create a template to bootstrap websites
+- [ ] Develop a v2 of my portfolio (consider adding a blog or integrating Obsidian notes)
+- [ ] Work on a Java project
 
 <h2 align="center">  💻 GitHub Stats:</h2>
 <br />
 <p align= "center">
   <img height= "150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zonpig&theme=react&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
-
-
 
 <!---
 - 👀 I’m interested in ...
